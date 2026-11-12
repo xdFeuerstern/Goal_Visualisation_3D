@@ -1,0 +1,3 @@
+# Blender-Backups und generierte Animation (wird von blender_script.py erzeugt)
+*.blend1
+blender_files/Soccer_Arena_Animated.blend
